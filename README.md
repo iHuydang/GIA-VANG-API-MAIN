@@ -28,7 +28,7 @@ GET /api/v1/xauusd/price
 ```json
 {
   "symbol": "XAUUSD",
-  "price": 1805.25,
+  "price": 2496.04,
   "timestamp": "2024-09-03T12:34:56Z"
 }
 ```
