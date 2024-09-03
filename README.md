@@ -45,12 +45,31 @@ GET /api/v1/xauusd/history?date=2024-09-01
 
 ```json
 {
-  "symbol": "XAUUSD",
-  "date": "2024-09-01",
-  "open": 1795.50,
-  "high": 1810.75,
-  "low": 1785.25,
-  "close": 1802.00
+  {
+  "timestamp": 1725349291,
+  "metal": "XAU",
+  "currency": "USD",
+  "exchange": "FOREX",
+  "symbol": "FOREXCOM:XAUUSD",
+  "prev_close_price": 2499.475,
+  "open_price": 2499.475,
+  "low_price": 2489.89,
+  "high_price": 2502.13,
+  "open_time": 1725321600,
+  "price": 2500.28,
+  "ch": 0.81,
+  "chp": 0.02,
+  "ask": 2500.66,
+  "bid": 2499.93,
+  "price_gram_24k": 80.3859,
+  "price_gram_22k": 73.687,
+  "price_gram_21k": 70.3376,
+  "price_gram_20k": 66.9882,
+  "price_gram_18k": 60.2894,
+  "price_gram_16k": 53.5906,
+  "price_gram_14k": 46.8918,
+  "price_gram_10k": 33.4941
+}
 }
 ```
 
