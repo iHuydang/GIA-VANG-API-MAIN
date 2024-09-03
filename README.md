@@ -1,6 +1,8 @@
 # Tác giả
 
 API này được phát triển bởi **Huy Dang Tran**.
+0x30478f5b7fc8cda1b18a377e16df57cea092f471 ERC
+TXSNeof4jXKsE9acAVD9y9KwJFvqdqTGpZ usdt
 
 # Giá Vàng/Đô La Mỹ API
 
